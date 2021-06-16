@@ -1,5 +1,5 @@
 Git Best Practices:
-
+Use at all times
     Use branching strategy and pull requests
     Commit once you finish the task. 
     Avoid merge Conflicts.
@@ -8,4 +8,4 @@ Git Best Practices:
     Write Good Commit Messages before committing 
     Try to use git commands rather than GUI tools.
     use ssh url and Personal Access Tokens (PAT) over https 
-    use rebase over git merge
+    use git rebase over git merge

@@ -7,4 +7,9 @@ git commit -m     = move files to the local repository FROM STAGING AREA
 git log
 
 
-git init  = it create a local git repository 
+git init  = it create a local git repository
+
+git clean -n  = Indicates files to deleted in the working area 
+  git clean -f  = Delete files in the working area
+  git reset   = Moves files from staging back to working 
+  git revert Cid   = Delete the latest committed files in the LocalRepo  

@@ -1,3 +1,6 @@
+Installations for Git
+=======================
+
 cd /opt
 ##The below command will download and install all required development libraries to your system.
 yum groupinstall "Development Tools" -y

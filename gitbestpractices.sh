@@ -1,5 +1,7 @@
 Git Best Practices:
 
+Please follow the following practices:
+
     Use branching strategy and pull requests
     Commit once you finish the task. 
     Avoid merge Conflicts.
